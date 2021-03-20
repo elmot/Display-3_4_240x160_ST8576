@@ -14,3 +14,6 @@ Pinout
 |  DC     |  PB1   |  CN3-9 (D6)   |
 |  CS     |  PB0   |  CN3-6 (D3)   |
 |  BL     |  --    |  --           |
+
+Not working
+=====
